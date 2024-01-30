@@ -1,27 +1,13 @@
 ### Hello, World! 👋
 
-I'm [Your Name], a passionate computer engineering student and software developer. My journey in the tech world has revolved around [mention your areas of interest like artificial intelligence, web development, etc.]. Currently on the verge of completing my degree in computer engineering, I'm excited about what the future holds.
+# 💫 About Me:
+I'm Sergio, a passionate computer science engineering final year student and software developer. My journey in the tech world has revolved around theoretical computing, software development, continuous integration.
 
 #### Some points about me:
 
 - 🚀 Skills: Software development.
-- 🌐 Interests: Emerging technologies, AI, Blockchain, Economics.
+- 🌐 Interests: Emerging technologies, AI, Blockchain, Economics, financial markets, investing.
 - 💡 Goal: Explore the vast world of technology and contribute to projects that make a difference.
-
-#### Featured Projects:
-
-- [Project Name]: Brief description of the project and your contribution.
-- [Project Name]: Brief description of the project and your contribution.
-
-#### Connect with me:
-
-[LinkedIn](link to your LinkedIn profile) | [Twitter](link to your Twitter profile) | [Website/Portfolio](link to your website or portfolio)
-
-I'm excited to collaborate on interesting projects and learn from the GitHub community! 🌟
-
-# 💫 About Me:
-I'm currently working on my own projects<br>I'm currently learning about AI, financial markets and investing
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sergio-mora-4b3870140) 
