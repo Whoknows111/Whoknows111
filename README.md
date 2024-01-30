@@ -10,7 +10,6 @@ I'm Sergio, a passionate computer science engineering final year student and sof
 - 💡 Goal: Explore the vast world of technology and contribute to projects that make a difference.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/sergio-mora-4b3870140](https://www.linkedin.com/in/sergio-mora-4b3870140/)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-mora-4b3870140/)
 
 # 💻 Tech Stack:
